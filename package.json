@@ -4,6 +4,6 @@
   "dependencies": {
     "fs-extra": "^8.0.1",
     "glob": "^7.1.4",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
